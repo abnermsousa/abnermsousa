@@ -6,7 +6,7 @@
 )](https://www.instagram.com/abnermsousa/)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abnermsousa&theme=shadow_red )](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abnermsousa&theme=transparent )](https://git.io/streak-stats)
 
 ### Ferramentas que utilizo.
 
